@@ -17,7 +17,7 @@ namespace ExceptionRegex_UC_7
                 }
                 else
                 {
-                    Console.WriteLine("Password is Not Valid ");
+                    Console.WriteLine("Password is Not Valid");
                 }
             }
             catch
