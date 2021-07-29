@@ -126,7 +126,7 @@ namespace ExceptionRegex_UC_10
                 }
                 else
                 {
-                    Console.WriteLine("EMail is Not Valid");
+                    Console.WriteLine("EMail is Not Valid ");
                 }
             }
             catch
