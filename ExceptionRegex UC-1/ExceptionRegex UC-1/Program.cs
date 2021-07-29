@@ -17,7 +17,7 @@ namespace ExceptionRegex_UC_1
                 }
                 else
                 {
-                    Console.WriteLine("Firstname is Not Valid ");
+                    Console.WriteLine("Firstname is Not Valid");
                 }
             }
             catch
