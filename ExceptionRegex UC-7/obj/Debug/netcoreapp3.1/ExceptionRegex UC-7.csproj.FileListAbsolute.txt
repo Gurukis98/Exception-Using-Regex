@@ -1,0 +1,12 @@
+C:\Users\kisho\Exception Using Regex\ExceptionRegex UC-7\bin\Debug\netcoreapp3.1\ExceptionRegex UC-7.exe
+C:\Users\kisho\Exception Using Regex\ExceptionRegex UC-7\bin\Debug\netcoreapp3.1\ExceptionRegex UC-7.deps.json
+C:\Users\kisho\Exception Using Regex\ExceptionRegex UC-7\bin\Debug\netcoreapp3.1\ExceptionRegex UC-7.runtimeconfig.json
+C:\Users\kisho\Exception Using Regex\ExceptionRegex UC-7\bin\Debug\netcoreapp3.1\ExceptionRegex UC-7.runtimeconfig.dev.json
+C:\Users\kisho\Exception Using Regex\ExceptionRegex UC-7\bin\Debug\netcoreapp3.1\ExceptionRegex UC-7.dll
+C:\Users\kisho\Exception Using Regex\ExceptionRegex UC-7\bin\Debug\netcoreapp3.1\ExceptionRegex UC-7.pdb
+C:\Users\kisho\Exception Using Regex\ExceptionRegex UC-7\obj\Debug\netcoreapp3.1\ExceptionRegex UC-7.AssemblyInfoInputs.cache
+C:\Users\kisho\Exception Using Regex\ExceptionRegex UC-7\obj\Debug\netcoreapp3.1\ExceptionRegex UC-7.AssemblyInfo.cs
+C:\Users\kisho\Exception Using Regex\ExceptionRegex UC-7\obj\Debug\netcoreapp3.1\ExceptionRegex UC-7.csproj.CoreCompileInputs.cache
+C:\Users\kisho\Exception Using Regex\ExceptionRegex UC-7\obj\Debug\netcoreapp3.1\ExceptionRegex UC-7.dll
+C:\Users\kisho\Exception Using Regex\ExceptionRegex UC-7\obj\Debug\netcoreapp3.1\ExceptionRegex UC-7.pdb
+C:\Users\kisho\Exception Using Regex\ExceptionRegex UC-7\obj\Debug\netcoreapp3.1\ExceptionRegex UC-7.genruntimeconfig.cache

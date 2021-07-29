@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ExceptionRegex UC-7/1.0.0": {
+        "runtime": {
+          "ExceptionRegex UC-7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExceptionRegex UC-7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
